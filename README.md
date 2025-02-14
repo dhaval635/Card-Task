@@ -10,11 +10,17 @@ To get started, clone the repository and install the required dependencies. Run 
 
 ```bash
 npm install
+```
+
+### Step 2: start the project
 
 you can start the development server by running
 
 ```bash
 npm run dev
+```
+
+### Step 1: see the project
 
 open your browser and navigate to the following URL to see the project
 
